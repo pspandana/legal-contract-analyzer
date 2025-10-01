@@ -1,0 +1,5 @@
+# Create test-contract.txt with content like:
+SUPPLY AGREEMENT
+This agreement is governed by Delaware law.
+Either party may terminate with 30 days notice.
+Liability under this agreement is unlimited.
