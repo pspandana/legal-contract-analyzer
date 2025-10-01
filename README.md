@@ -115,7 +115,7 @@ The CUAD dataset is organized like a question-answering system:
 
 
 **************************************************************************************************************************************************
-Breaking this down:
+""" Breaking this down:
 
 context - The actual contract text (like a paragraph from the contract)
 question - What legal clause are we looking for? (e.g., "What is the governing law?")
@@ -359,6 +359,7 @@ Acknowledgments
 The Atticus Project - For creating and open-sourcing CUAD
 UC Berkeley - Research team behind the dataset
 NeurIPS 2021 - For publishing and validating the research
-Legal experts - Who annotated 13,000+ clauses in CUAD
+Legal experts - Who annotated 13,000+ clauses in CUAD """
+
 
 
