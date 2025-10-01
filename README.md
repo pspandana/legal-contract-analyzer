@@ -110,6 +110,11 @@ The CUAD dataset is organized like a question-answering system:
     }
   ]
 }
+
+
+
+
+**************************************************************************************************************************************************
 Breaking this down:
 
 context - The actual contract text (like a paragraph from the contract)
@@ -355,4 +360,5 @@ The Atticus Project - For creating and open-sourcing CUAD
 UC Berkeley - Research team behind the dataset
 NeurIPS 2021 - For publishing and validating the research
 Legal experts - Who annotated 13,000+ clauses in CUAD
+
 
